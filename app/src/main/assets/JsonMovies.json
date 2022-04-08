@@ -1,0 +1,164 @@
+﻿{
+  "hits": [
+    {
+      "title": "Avatar",
+      "year": 2009,
+      "director": "James Cameron",
+      "genre": "Action, Adventure, Fantasy",
+      "language": "English, Spanish",
+      "metascore": 83,
+      "imdbRating": 7.9,
+      "imdbVotes": 890617
+    },
+    {
+      "title": "I Am Legend",
+      "year": 2007,
+      "director": "Francis Lawrence",
+      "genre": "Drama, Horror, Sci-Fi",
+      "language": "English",
+      "metascore": 65,
+      "imdbRating": 7.2,
+      "imdbVotes": 533874
+    },
+    {
+      "title": "300",
+      "year": 2006,
+      "director": "Zack Snyder",
+      "genre": "Action, Drama, Fantasy",
+      "language": "English",
+      "metascore": 52,
+      "imdbRating": 7.7,
+      "imdbVotes": 611046
+    },
+    {
+      "title": "The Avengers",
+      "year": 2012,
+      "director": "Joss Whedon",
+      "genre": "Action, Sci-Fi, Thriller",
+      "language": "English, Russian",
+      "metascore": 69,
+      "imdbRating": 8.1,
+      "imdbVotes": 1003301
+    },
+    {
+      "title": "The Wolf of Wall Street",
+      "year": 2013,
+      "director": "Martin Scorsese",
+      "genre": "Biography, Comedy, Crime",
+      "language": "English, French",
+      "metascore": 75,
+      "imdbRating": 8.2,
+      "imdbVotes": 786985
+    },
+    {
+      "title": "Interstellar",
+      "year": 2014,
+      "director": "Christopher Nolan",
+      "genre": "Adventure, Drama, Sci-Fi",
+      "language": "English",
+      "metascore": 74,
+      "imdbRating": 8.6,
+      "imdbVotes": 937412
+    },
+    {
+      "title": "Game of Thrones",
+      "year": 2011,
+      "director": "N/A",
+      "genre": "Adventure, Drama, Fantasy",
+      "language": "English, Old English, Norse, Old, Latin",
+      "metascore": "N/A",
+      "imdbRating": "8.6",
+      "imdbVotes": "1046830"
+    },
+    {
+      "title": "Vikings",
+      "year": "2013",
+      "director": "N/A",
+      "genre": "Action, Drama, History,,,,,
+      "language": "English",
+      "metascore": "N/A",
+      "imdbRating": "8.0",
+      "imdbVotes": "198,041"
+    },
+    {
+      "title": "Gotham",
+      "year": "2013",
+      "director": "N/A",
+      "genre": "Action, Crime, Drama",
+      "language": "English",
+      "metascore": "N/A",
+      "imdbRating": "8.0",
+      "imdbVotes": "133375"
+    },
+    {
+      "title": "Power",
+      "year": "2014",
+      "director": "N/A",
+      "genre": "Crime, Drama",
+      "language": "English, Spanish",
+      "metascore": "N/A",
+      "imdbRating": "9.5",
+      "imdbVotes": "14770"
+    },
+    {
+      "title": "Narcos",
+      "year": "2014",
+      "director": "N/A",
+      "genre": "Biography, Crime, Drama",
+      "language": "English, Spanish",
+      "metascore": "N/A",
+      "imdbRating": "8.9",
+      "imdbVotes": "118680"
+    },
+    {
+      "title": "Breaking Bad",
+      "year": "2015",
+      "director": "N/A",
+      "genre": "Crime, Drama, Thriller",
+      "language": "English",
+      "metascore": "N/A",
+      "imdbRating": "9.5",
+      "imdbVotes": "889883"
+    },
+    {
+      "title": "Doctor Strange",
+      "year": "2008�2013",
+      "director": "Scott Derrickson",
+      "genre": "Action, Adventure, Fantasy",
+      "language": "English",
+      "metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A"
+    },
+    {
+      "title": "Rogue One: A Star Wars Story",
+      "year": "2016",
+      "director": "Gareth Edwards",
+      "genre": "Action, Adventure, Sci-Fi",
+      "language": "English",
+      "metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A"
+    },
+    {
+      "title": "Assassins Creed",
+      "year": "2016",
+      "director": "Justin Kurzel",
+      "genre": "Action, Adventure, Fantasy",
+      "language": "English",
+      "metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A"
+    },
+    {
+      "title": "Luke Cage",
+      "year": "2016",
+      "director": "N/A",
+      "genre": "Action, Crime, Drama",
+      "language": "English",
+      "metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A"
+    }
+  ]
+}
